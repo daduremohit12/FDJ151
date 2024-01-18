@@ -4,7 +4,7 @@ public class A
   {
     System.out.println("This is GitHub Demo class");
     System.out.println("Status unchanged");
-    
+    // modigied just for github
   }
 
 
